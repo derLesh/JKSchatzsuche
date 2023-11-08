@@ -15,7 +15,7 @@ Es wird einmal der aktuelle Stand pro Tag angegeben und darunter der gelöste We
 - Längengrad: _ _ . _ _ X1 _ _
 - Zahlenschlosscode: _ _ _
 
-Lösung: Apache 207
+Lösung: [Apache 207](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%201/l%C3%B6sung.md)
 - Breitengrad: _ 0 . _ 7 _ _ _
 - Längengrad: _ _ . _ _ 2 _ _
 - Zahlenschlosscode: _ _ _
