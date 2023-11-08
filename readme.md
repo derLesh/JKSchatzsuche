@@ -74,3 +74,14 @@ Lösung: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ _ _
 - Längengrad: _ _ . _ _ 2 _ _
 - Zahlenschlosscode: _ _ _
+
+## Tag 7 - 14.11.2023 - Nicht ausgestrahlt
+- Verfügbare Ziffern: Nicht gegeben
+- Breitengrad: _ 0 . _ 7 _ _ _
+- Längengrad: _ _ . _ _ 2 _ _
+- Zahlenschlosscode: _ _ _
+
+Lösung: Nicht gegeben
+- Breitengrad: _ 0 . _ 7 _ _ _
+- Längengrad: _ _ . _ _ 2 _ _
+- Zahlenschlosscode: _ _ _
