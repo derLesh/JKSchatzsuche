@@ -1,5 +1,8 @@
 # Lösung - Tag 1
-An Tag 1 **Das Frühstück** wurde mehrfach So und Wie gesagt.
+
+[https://github.com/derLesh/JKSchatzsuche/raw/main/Tag%201/JKSchatzsuche-Tag1.mp4](https://github.com/derLesh/JKSchatzsuche/assets/11671272/d8f6bc38-0b8f-4e31-bfc6-888fa4393cc2)
+
+An Tag 1 **Das Frühstück** wurde mehrfach *So* und *Wie* gesagt.
 
 Entscheidend ist hier die Anzahl und das Gebäck von Joko und Klaas.
 
