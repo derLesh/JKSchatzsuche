@@ -15,73 +15,73 @@ Es wird einmal der aktuelle Stand pro Tag angegeben und darunter der gelöste We
 - Längengrad: _ _ . _ _ X1 _ _
 - Zahlenschlosscode: _ _ _
 
-Lösung: [Apache 207](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%201/l%C3%B6sung.md)
+Lösung: [Apache 207](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%201/L%C3%B6sung.md)
 - Breitengrad: _ 0 . _ 7 _ _ _
 - Längengrad: _ _ . _ _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
-## Tag 2 - 9.11.2023 - Nicht ausgestrahlt
-- Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+## Tag 2 - 9.11.2023
+- Verfügbare Ziffern: 2
+- Breitengrad: _ 0 . _ 7 _ X1 _
+- Längengrad: _ _ . X2 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
-Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+Lösung: [64](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%202/L%C3%B6sung.md)
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 ## Tag 3 - 10.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 ## Tag 4 - 12.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 ## Tag 5 - 12.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 ## Tag 6 - 13.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 ## Tag 7 - 14.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ _ _
-- Längengrad: _ _ . _ _ 2 _ _
+- Breitengrad: _ 0 . _ 7 _ 6 _
+- Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
