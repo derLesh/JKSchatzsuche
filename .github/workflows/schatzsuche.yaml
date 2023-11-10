@@ -11,19 +11,20 @@ jobs:
     steps:
       - name: Check out the repository
         uses: actions/checkout@v2
-
+      
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.8'
-
+      
       - name: Install dependencies
-        run: |
-          pip install folium branca
-
+        run: pip install folium branca
+      
       - name: Generate Map
-        run: |
-          python coordinates.py  # Ihr Python-Script, das die Karte generiert
+        env:
+          BREITENGRAD_PATTERN: "50._7_6_"
+          LAENGENGRAD_PATTERN: "__.4_2__"
+        run: python coordinates.py  # oder wie auch immer Ihr Skript heißt
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
