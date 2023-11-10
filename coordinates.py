@@ -50,8 +50,13 @@ def generate_google_maps_urls_and_folium_map(breitengrad_pattern, laengengrad_pa
 
 # %%
 # Eingabeaufforderung für den Benutzer
-breitengrad_pattern = os.getenv('BREITENGRAD_PATTERN', input("Bitte geben Sie das Muster für den Breitengrad ein (z.B. '50._7_6_'): "))
-laengengrad_pattern = os.getenv('LAENGENGRAD_PATTERN', input("Bitte geben Sie das Muster für den Längengrad ein (z.B. '12.4_2__'): "))
+breitengrad_pattern = os.getenv('BREITENGRAD_PATTERN')
+if not breitengrad_pattern:
+    breitengrad_pattern = input("Bitte geben Sie das Muster für den Breitengrad ein (z.B. '50._7_6_'): ")
+
+laengengrad_pattern = os.getenv('LAENGENGRAD_PATTERN')
+if not laengengrad_pattern:
+    laengengrad_pattern = input("Bitte geben Sie das Muster für den Längengrad ein (z.B. '12.4_2__'): ")
 
 # %%
 # Definieren des Bereichs für Koordinaten in Deutschland
