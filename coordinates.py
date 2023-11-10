@@ -42,10 +42,11 @@ def generate_google_maps_urls_and_folium_map(breitengrad_pattern, laengengrad_pa
     centroid = gpd.GeoSeries([multi_point]).centroid.iloc[0]
     
     # Erstellen der Folium-Karte zentriert auf den Centroid
-    m = folium.Map(location=[centroid.y, centroid.x], zoom_start=6)
+    m = folium.Map(location=[51.1657, 10.4515], zoom_start=6)  # Zentriert auf Deutschland
 
-    # Füge den Centroid als Marker zur Karte hinzu
-    folium.Marker([centroid.y, centroid.x]).add_to(m)
+    # Füge jeden Punkt als Marker zur Karte hinzu
+    for point in points:
+        folium.Marker([point[0], point[1]]).add_to(m)
 
     # Karte anzeigen
     m.save("coordinates.html")
