@@ -23,7 +23,7 @@ jobs:
 
       - name: Generate Map
         run: |
-          python generate_map.py  # Ihr Python-Script, das die Karte generiert
+          python coordinates.py  # Ihr Python-Script, das die Karte generiert
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
