@@ -46,7 +46,7 @@ def generate_urls(breitengrad_pattern, laengengrad_pattern, breiten_range, laeng
         folium.Marker([point[0], point[1]]).add_to(m)
 
     # Karte anzeigen
-    m.save("coordinates.html")
+    m.save("index.html")
 
     return urls
 
