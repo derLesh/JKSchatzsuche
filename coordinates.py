@@ -7,6 +7,8 @@
 import itertools
 import folium
 import branca
+import geopandas as gpd
+from shapely.geometry import MultiPoint
 import os
 # from shapely.geometry import Point
 # from IPython.display import display
@@ -34,14 +36,16 @@ def generate_google_maps_urls_and_folium_map(breitengrad_pattern, laengengrad_pa
                 urls.append(f"https://www.google.com/maps?q={breitengrad},{laengengrad}")
                 points.append((breitengrad, laengengrad))
 
-    # Erstellen der Folium-Karte
-    mittlerer_breitengrad = sum(breiten_range) / 2
-    mittlerer_laengengrad = sum(laengen_range) / 2
-    m = folium.Map(location=[mittlerer_breitengrad, mittlerer_laengengrad], zoom_start=6)
+    # Erstelle ein MultiPoint-Objekt aus den Punkten
+    multi_point = MultiPoint(points)
+    # Erstelle ein GeoSeries-Objekt und berechne den Centroid
+    centroid = gpd.GeoSeries([multi_point]).centroid.iloc[0]
+    
+    # Erstellen der Folium-Karte zentriert auf den Centroid
+    m = folium.Map(location=[centroid.y, centroid.x], zoom_start=6)
 
-    # Hinzufügen der Marker zur Karte
-    for point in points:
-        folium.Marker(point).add_to(m)
+    # Füge den Centroid als Marker zur Karte hinzu
+    folium.Marker([centroid.y, centroid.x]).add_to(m)
 
     # Karte anzeigen
     m.save("coordinates.html")
