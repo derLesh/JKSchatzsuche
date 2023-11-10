@@ -2,18 +2,19 @@
 # Importieren der notwendigen Bibliotheken
 import itertools
 import folium
-import branca
 import geopandas as gpd
 from shapely.geometry import MultiPoint
 import os
-# from shapely.geometry import Point
-# from IPython.display import display
 
 # %%
 # Funktion zur Erzeugung von Google Maps URLs und zur Kartenvisualisierung mit folium
-def generate_google_maps_urls_and_folium_map(breitengrad_pattern, laengengrad_pattern, breiten_range, laengen_range):
+def generate_urls(breitengrad_pattern, laengengrad_pattern, breiten_range, laengen_range):
     urls = []
     points = []
+
+    # Entferne Leerzeichen aus den Mustern
+    breitengrad_pattern = breitengrad_pattern.replace(" ", "")
+    laengengrad_pattern = laengengrad_pattern.replace(" ", "")
 
     # Ersetze Unterstriche mit Platzhalter für Ziffern
     breitengrad_pattern = breitengrad_pattern.replace("_", "{}")
@@ -66,7 +67,7 @@ laengen_range = (6.00000, 15.99999)
 
 # %%
 # Generierung und Ausgabe der URLs und Anzeigen der Karte
-urls = generate_google_maps_urls_and_folium_map(breitengrad_pattern, laengengrad_pattern, breiten_range, laengen_range)
+urls = generate_urls(breitengrad_pattern, laengengrad_pattern, breiten_range, laengen_range)
 print(f"\nEs wurden {len(urls)} URLs generiert:\n")
 for url in urls:
     print(url)
