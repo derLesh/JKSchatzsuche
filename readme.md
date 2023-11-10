@@ -31,57 +31,57 @@ Lösung: [64](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%202/L%C3%B6
 - Längengrad: _ _ . 4 _ 2 _ _
 - Zahlenschlosscode: _ _ _
 
-## Tag 3 - 10.11.2023 - Nicht ausgestrahlt
-- Verfügbare Ziffern: Nicht gegeben
+## Tag 3 - 10.11.2023
+- Verfügbare Ziffern: 1
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ X1
 - Zahlenschlosscode: _ _ _
 
-Lösung: Nicht gegeben
+Lösung: [3](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%203/L%C3%B6sung.md)
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 ## Tag 4 - 12.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 ## Tag 5 - 12.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 ## Tag 6 - 13.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 ## Tag 7 - 14.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
 - Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ _
+- Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
