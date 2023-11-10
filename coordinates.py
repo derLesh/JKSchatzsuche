@@ -7,8 +7,8 @@
 import itertools
 import folium
 import branca
-from shapely.geometry import Point
-from IPython.display import display
+# from shapely.geometry import Point
+# from IPython.display import display
 
 # %%
 # Funktion zur Erzeugung von Google Maps URLs und zur Kartenvisualisierung mit folium
