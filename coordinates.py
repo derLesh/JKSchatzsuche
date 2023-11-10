@@ -1,8 +1,4 @@
 # %%
-# Installieren der benötigten Bibliotheken für folium
-# !pip install folium branca
-
-# %%
 # Importieren der notwendigen Bibliotheken
 import itertools
 import folium
