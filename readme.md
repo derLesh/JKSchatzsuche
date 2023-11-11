@@ -42,13 +42,13 @@ Lösung: [3](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%203/L%C3%B6s
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
-## Tag 4 - 12.11.2023 - Nicht ausgestrahlt
-- Verfügbare Ziffern: Nicht gegeben
+## Tag 4 - 12.11.2023
+- Verfügbare Ziffern: 0
 - Breitengrad: _ 0 . _ 7 _ 6 _
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
-Lösung: Nicht gegeben
+Lösung: [Spenden für die DKMS](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%204/L%C3%B6sung.md)
 - Breitengrad: _ 0 . _ 7 _ 6 _
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _

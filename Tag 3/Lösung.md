@@ -7,7 +7,11 @@ Joko und Klaas sind die 2 Leerzeichen. Beide halten eine Pressekonferenz in der 
 Das Rätsel lautet:
 
 ```
-Wir schreiben das Jahr 1453. Vor den Toren des Königreichs Branko, stand ein gigantisches Feindesherr. Ein Bauer trug dem herrschenden König ein wichtiges Gesuch vor. Dieser verneinte allerdings, woraufhin sämtliche Bauern sofort das Königreich verließen. Unbehagen und Verzweiflung ereillten den König auf Grund dieses Vorgangs, doch die Königin spendete ihm Trost. Daraufhin trat der König selbst vor die Forten des Reichs, um sich alleine den Feinden entgegen zu stellen. Jedoch waren diese gar nicht nicht zu sehen. Plötzlich sausten von hinten zwei gewaltige Geschosse direkt auf die Türme der Festung zu. Diese sackten weit nach vorne und krachten links und rechts neben den erschrockten König zu Boden. Er war außer sich und blickte mit Traurer herab auf das, was von seinem Reich übrig geblieben war. Die Überredste seiner geschlagenen Armee, verbannten sich vor seinem inneren Augen ein letztes Mal, ehe sich die Welt um 90° drehte.
+Wir schreiben das Jahr 1453. Vor den Toren des Königreichs Branko, stand ein gigantisches Feindesherr.
+Ein Bauer trug dem herrschenden König ein wichtiges Gesuch vor. Dieser verneinte allerdings, woraufhin sämtliche Bauern sofort das Königreich verließen. Unbehagen und Verzweiflung ereillten den König auf Grund dieses Vorgangs, doch die Königin spendete ihm Trost.
+Daraufhin trat der König selbst vor die Forten des Reichs, um sich alleine den Feinden entgegen zu stellen. Jedoch waren diese gar nicht nicht zu sehen. 
+Plötzlich sausten von hinten zwei gewaltige Geschosse direkt auf die Türme der Festung zu. Diese sackten weit nach vorne und krachten links und rechts neben den erschrockten König zu Boden.
+Er war außer sich und blickte mit Traurer herab auf das, was von seinem Reich übrig geblieben war. Die Überredste seiner geschlagenen Armee, verbannten sich vor seinem inneren Augen ein letztes Mal, ehe sich die Welt um 90° drehte.
 
 PS: Gegen den Uhrzeigersinn
 ```
