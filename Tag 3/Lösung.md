@@ -1,5 +1,7 @@
 # Lösung - Tag 3
 
+https://github.com/derLesh/JKSchatzsuche/assets/11671272/d5f009f4-cac1-42a2-a111-8c3be48abb05
+
 Joko und Klaas sind die 2 Leerzeichen. Beide halten eine Pressekonferenz in der sie mitteilen, dass sie ein Rätsel haben, dass sie nicht lösen können.
 
 Das Rätsel lautet:
