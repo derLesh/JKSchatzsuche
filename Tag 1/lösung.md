@@ -11,11 +11,11 @@ Entscheidend ist hier die Anzahl und das Gebäck von Joko und Klaas.
 
 Genannt wurde folgendes:
 
-`So Wie So So So So So Wie So Wie Wie Wie So So So So So Wie Wie So So So So Wie So Wie Wie So So So Wie Wie So Wie Wie So Wie So So So So Wie Wie So So Wie So Wie `
+```So Wie So So So So So Wie So Wie Wie Wie So So So So So Wie Wie So So So So Wie So Wie Wie So So So Wie Wie So Wie Wie So Wie So So So So Wie Wie So So Wie So Wie ```
 
 Übersetzt kommt heraus:
 
-`0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 1 0 1`
+```0 1 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 1 1 0 0 0 0 1 0 1 1 0 0 0 1 1 0 1 1 0 1 0 0 0 0 1 1 0 0 1 0 1``` 
 
 Diesen Binärcode kann man [übersetzten](https://gc.de/gc/binaer/) lassen und ergibt:
 
