@@ -53,14 +53,14 @@ Lösung: [Spenden für die DKMS](https://github.com/derLesh/JKSchatzsuche/blob/m
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
-## Tag 5 - 12.11.2023 - Nicht ausgestrahlt
-- Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ 6 _
+## Tag 5 - 12.11.2023
+- Verfügbare Ziffern: 1
+- Breitengrad: _ 0 . _ 7 X1 6 _
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
-Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ 6 _
+Lösung: Nicht herausgefunden
+- Breitengrad: _ 0 . _ 7 X1 6 _
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
