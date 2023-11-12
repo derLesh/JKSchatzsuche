@@ -16,4 +16,15 @@ Im Video von Samstag geht die rechte Lampe mehrfach an uns aus.
 
 Das Licht blinkt **4** mal.
 
-**Lösung**: 4
+An den Stellen, an denen das Licht aus ist, sagt Stella folgende Worte:
+
+```
+1. **nicht**
+2. **6**
+3. **im Kopf**
+4. **Zahl**
+```
+
+Eine umgedrehte 6 ergibt eine 9.
+
+**Lösung**: 9

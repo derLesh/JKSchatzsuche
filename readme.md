@@ -59,8 +59,8 @@ Lösung: [Spenden für die DKMS](https://github.com/derLesh/JKSchatzsuche/blob/m
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
-Lösung: [4](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%205/L%C3%B6sung.md)
-- Breitengrad: _ 0 . _ 7 4 6 _
+Lösung: [9](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%205/L%C3%B6sung.md)
+- Breitengrad: _ 0 . _ 7 9 6 _
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
