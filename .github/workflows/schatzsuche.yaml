@@ -22,7 +22,7 @@ jobs:
       
       - name: Generate Map
         env:
-          BREITENGRAD_PATTERN: "50._7_65"
+          BREITENGRAD_PATTERN: "50._746_"
           LAENGENGRAD_PATTERN: "__.4_2_3"
         run: python coordinates.py  # oder wie auch immer Ihr Skript heißt
 
