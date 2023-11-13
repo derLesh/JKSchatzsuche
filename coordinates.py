@@ -62,8 +62,8 @@ if not laengengrad_pattern:
 
 # %%
 # Definieren des Bereichs für Koordinaten in Deutschland
-breiten_range = (47.00000, 55.99999)
-laengen_range = (6.00000, 15.99999)
+breiten_range = (47.00000, 51.00000)
+laengen_range = (6.00000, 15.00000)
 
 # %%
 # Generierung und Ausgabe der URLs und Anzeigen der Karte
