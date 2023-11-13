@@ -64,24 +64,24 @@ Lösung: [9](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%205/L%C3%B6s
 - Längengrad: _ _ . 4 _ 2 _ 3
 - Zahlenschlosscode: _ _ _
 
-## Tag 6 - 13.11.2023 - Nicht ausgestrahlt
-- Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ 3
+## Tag 6 - 13.11.2023
+- Verfügbare Ziffern: 2
+- Breitengrad: _ 0 . _ 7 9 6 X2
+- Längengrad: _ _ . 4 _ 2 X1 3
 - Zahlenschlosscode: _ _ _
 
-Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ 3
+Lösung: [84](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%206/L%C3%B6sung.md)
+- Breitengrad: _ 0 . _ 7 9 6 4
+- Längengrad: _ _ . 4 _ 2 8 3
 - Zahlenschlosscode: _ _ _
 
 ## Tag 7 - 14.11.2023 - Nicht ausgestrahlt
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ 3
+- Breitengrad: _ 0 . _ 7 9 6 4
+- Längengrad: _ _ . 4 _ 2 8 3
 - Zahlenschlosscode: _ _ _
 
 Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 _ 6 _
-- Längengrad: _ _ . 4 _ 2 _ 3
+- Breitengrad: _ 0 . _ 7 9 6 4
+- Längengrad: _ _ . 4 _ 2 8 3
 - Zahlenschlosscode: _ _ _
