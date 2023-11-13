@@ -22,8 +22,8 @@ jobs:
       
       - name: Generate Map
         env:
-          BREITENGRAD_PATTERN: "50._7965"
-          LAENGENGRAD_PATTERN: "__.4_2_3"
+          BREITENGRAD_PATTERN: "50._7964"
+          LAENGENGRAD_PATTERN: "__.4_283"
         run: python coordinates.py  # oder wie auch immer Ihr Skript heißt
 
       - name: Deploy to GitHub Pages
