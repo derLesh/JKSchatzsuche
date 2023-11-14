@@ -1,4 +1,4 @@
-# Lösung - Tag 7
+# Lösung - Das Bild - Tag 7
 
 Es wird ein Bild gezeigt mit mehreren Strichen und Punkten:
 
@@ -6,7 +6,7 @@ Es wird ein Bild gezeigt mit mehreren Strichen und Punkten:
 
 Blickt man auf das Bild in einen bestimmten Winkel erkennt man eine Zahl.
 
-**Lösung**: 13588
+**Lösung**: 13586
 
 ## Kennwort für den Tresor
 
