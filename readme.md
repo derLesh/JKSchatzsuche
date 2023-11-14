@@ -75,13 +75,13 @@ Lösung: [84](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%206/L%C3%B6
 - Längengrad: _ _ . 4 _ 2 8 3
 - Zahlenschlosscode: _ _ _
 
-## Tag 7 - 14.11.2023 - Nicht ausgestrahlt
+## Tag 7 - 14.11.2023
 - Verfügbare Ziffern: Nicht gegeben
-- Breitengrad: X3 0 . _ 7 9 6 4
-- Längengrad: X1 X2 . 4 _ 2 8 3
-- Zahlenschlosscode: _ _ _
+- Breitengrad: X3 0 . X4 7 9 6 4
+- Längengrad: X1 X2 . 4 X5 2 8 3
+- Zahlenschlosscode: 2 8 2
 
-Lösung: Nicht gegeben
-- Breitengrad: _ 0 . _ 7 9 6 4
-- Längengrad: _ _ . 4 _ 2 8 3
-- Zahlenschlosscode: _ _ _
+Lösung: [13588](https://github.com/derLesh/JKSchatzsuche/blob/main/Tag%207/L%C3%B6sung.md)
+- Breitengrad: 5 0 . 8 7 9 6 4
+- Längengrad: 1 3 . 4 8 2 8 3
+- Zahlenschlosscode: 2 8 2
