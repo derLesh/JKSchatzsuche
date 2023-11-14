@@ -1,4 +1,4 @@
-# Lösung - Tag 1
+# Lösung - Das Frühstück - Tag 1
 
 [https://github.com/derLesh/JKSchatzsuche/raw/main/Tag%201/JKSchatzsuche-Tag1.mp4](https://github.com/derLesh/JKSchatzsuche/assets/11671272/d8f6bc38-0b8f-4e31-bfc6-888fa4393cc2)
 

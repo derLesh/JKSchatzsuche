@@ -1,4 +1,4 @@
-# Lösung - Tag 6 - Die Nachrichten
+# Lösung - Die Nachrichten - Tag 6
 
 https://github.com/derLesh/JKSchatzsuche/assets/11671272/bf47b4d2-c84e-43d3-a6a2-d8ea67f55aad
 
@@ -22,6 +22,12 @@ Insider vermuten sie sei etwas blau gewesen. Nicht Rot oder Grün, sondern Blau.
 Die ganze Zeit wird im Hintergrund ein Bild eingeblendet, welches die Statue zeigt.
 
 Es handelt sich um folgendes Bild: https://de.m.wikipedia.org/wiki/Datei:Klaas_heufer-umlauf_statue_berlin_2.jpg
+
+
+**Lösung**: 63
+
+
+## Ursprüngliche Lösung (falsch)
 
 Öffnet man das Programm in einem Bildbearbeitungstool, wie z.B. Photoshop und geht dort an die Stelle 2262 x 5025 und markiert dort die Farbe kommen folgende RGB Werte heraus:
 

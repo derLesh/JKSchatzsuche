@@ -1,4 +1,4 @@
-# Lösung - Tag 3
+# Lösung - Das verlorene Königreich - Tag 3
 
 https://github.com/derLesh/JKSchatzsuche/assets/11671272/d5f009f4-cac1-42a2-a111-8c3be48abb05
 

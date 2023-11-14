@@ -54,11 +54,11 @@ def generate_urls(breitengrad_pattern, laengengrad_pattern, breiten_range, laeng
 # Eingabeaufforderung für den Benutzer
 breitengrad_pattern = os.getenv('BREITENGRAD_PATTERN')
 if not breitengrad_pattern:
-    breitengrad_pattern = input("Bitte geben Sie das Muster für den Breitengrad ein (z.B. '50._7_6_'): ")
+    breitengrad_pattern = input("Lösung: 50.87963 | Bitte geben Sie das Muster für den Breitengrad ein (z.B. '50._7_6_'): ")
 
 laengengrad_pattern = os.getenv('LAENGENGRAD_PATTERN')
 if not laengengrad_pattern:
-    laengengrad_pattern = input("Bitte geben Sie das Muster für den Längengrad ein (z.B. '12.4_2__'): ")
+    laengengrad_pattern = input("Lösung: 13.46263 | Bitte geben Sie das Muster für den Längengrad ein (z.B. '12.4_2__'): ")
 
 # %%
 # Definieren des Bereichs für Koordinaten in Deutschland

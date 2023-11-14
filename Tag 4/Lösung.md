@@ -1,4 +1,4 @@
-# Lösung - Tag 4
+# Lösung - Stellas Schatzsuche - Tag 4
 
 Werbung für die DKMS.
 
